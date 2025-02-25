@@ -1,0 +1,282 @@
+/* Global Styles */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f7f9fc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Services Section */
+#services {
+    background: linear-gradient(135deg, #0066cc, #00bcd4);
+    padding: 80px 0;
+    color: white;
+}
+
+#services .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-heading {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.section-subheading {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 50px;
+}
+
+/* Service Card */
+.fa-stack {
+    display: inline-block;
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+.fa-circle {
+    color: #0066cc;
+}
+
+.fa-inverse {
+    color: #ffffff;
+}
+
+h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #d1d1d1;
+}
+
+/* Column Styles */
+.col-md-4 {
+    margin-bottom: 40px;
+}
+
+/* Hover Effects */
+.col-md-4:hover {
+    transform: translateY(-10px);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+/* Global Styles */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f7f9fc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Services Section */
+#services {
+    background: linear-gradient(135deg, #0066cc, #00bcd4);
+    padding: 80px 0;
+    color: white;
+}
+
+#services .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-heading {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.section-subheading {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 50px;
+}
+
+/* Service Card */
+.fa-stack {
+    display: inline-block;
+    font-size: 4rem;
+    margin-bottom: 20px;
+    text-align: center; /* Ensures the icons are centered */
+    margin: 0 auto; /* Centers the icon horizontally */
+}
+
+.fa-circle {
+    color: #0066cc;
+}
+
+.fa-inverse {
+    color: #ffffff;
+}
+
+h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #d1d1d1;
+}
+
+/* Column Styles */
+.col-md-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+/* Hover Effects */
+.col-md-4:hover {
+    transform: translateY(-10px);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+/* Global Styles */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f7f7f7; /* Light gray background */
+    color: #333; /* Dark gray text color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Services Section */
+#services {
+    background: #333; /* Dark background for services section */
+    padding: 80px 0;
+    color: white;
+}
+
+#services .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-heading {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #f1c40f; /* Yellow color for headings */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.section-subheading {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #ffffff; /* White color for subheading */
+    margin-bottom: 50px;
+}
+
+/* Service Card */
+.fa-stack {
+    display: inline-block;
+    font-size: 4rem;
+    margin-bottom: 20px;
+    text-align: center; /* Ensures the icons are centered */
+    margin: 0 auto; /* Centers the icon horizontally */
+}
+
+.fa-circle {
+    color: #f1c40f; /* Yellow for the background circle */
+}
+
+.fa-inverse {
+    color: #ffffff; /* White for the icon inside the circle */
+}
+
+h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #f1c40f; /* Yellow for headings */
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #d1d1d1; /* Light gray color for paragraphs */
+}
+
+/* Column Styles */
+.col-md-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+/* Hover Effects */
+.col-md-4:hover {
+    transform: translateY(-10px);
+    transition: transform 0.3s ease-in-out;
+}
+
+.col-md-4:hover .fa-stack .fa-circle {
+    color: #f39c12; /* A darker yellow on hover for effect */
+}
+
+/* Footer */
+footer {
+    background-color: #333; /* Dark footer background */
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
